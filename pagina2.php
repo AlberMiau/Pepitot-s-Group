@@ -3,18 +3,21 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="normalize.css">
 </head>
 <body>
 <?php include'includes/cabecera.php' ?>
 
-<div class="container">
-	<div class="primerofaq">
+<div class="primerofaq">
+	<div class="container">
 		<h1><strong>Windows</strong> Frequently Asked Questions</h1>
 	</div>
 </div>
 
-<div class="container">
-	<div class="segundofaq">
+<div class="segundofaq">
+	<div class="container">
 	
 		<h3>How do I install XAMPP?</h3><hr>
 		<p>XAMPP for Windows exists in three different flavors:</p>
