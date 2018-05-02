@@ -9,9 +9,9 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<<<<<<< HEAD
-	
-	
+
+    <?php include('inc/header.php') ?>
+
       <div class="logo_cuerpo">
  		<div class="row">
     		<div class="large-12 columns">
@@ -85,8 +85,6 @@
 
     </div>
 
-=======
-	<?php include('header.php') ?>
->>>>>>> f9c9593ed4a9b9598e91cd2c586b6796aafe8fe7
+
 </body>
 </html>
