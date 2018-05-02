@@ -1,0 +1,39 @@
+/*Estilo Index----------------*/
+#cuerpo_index {
+  background: #fff;
+  padding-bottom: 2em;
+  width: 960px;
+  margin: 0 auto;
+}	
+
+.logo_cuerpo {
+  background: #efeee5;
+  padding: 1em 0;
+  margin-bottom: 2em;
+  }
+
+.logo_cuerpo h1 {
+    font-weight: bold;
+    font-size: 3em;
+    line-height: 1em;
+    padding: 0.3em 0;
+    text-align: center; 
+}
+
+.logo_cuerpo h1 span {
+    font-weight: normal;
+    font-size: 1em;
+    display: inline-block; }
+   
+.logo_cuerpo h1 img {
+	height: 1em;
+    margin-right: 0.3em;
+     }
+p > a{
+	text-decoration: none;
+	color: green;
+}
+h3 > a{
+	text-decoration: none;
+	color: green;
+}
