@@ -1,19 +1,10 @@
 /* HEADER */
+.button {
+width: 100%;
+padding: 0;
+background-color: #2a5d84;
+height: 60px;
 
-.button li a:hover {
-background-color: #333333;
-margin-top:-2px;
-padding-bottom:20px;
-}
-
-.button li a {
-font-family: Arial;
-font-size:14px;
-text-decoration: none;
-float:left;
-padding: 10px;
-
-color: #fff;
 }
 
 .button li {
@@ -21,14 +12,20 @@ display: inline;
 
 }
 
-.button {
-padding: 0;
-padding-top: 10px;
-border: 1px solid black;
-background-color: #2a5d84;
-height: 60px;
+.button li a {
+
+font-size:12px;
+text-decoration: none;
+float:left;
+padding: 10px;
+color: #fff;
+}
+
+.button li a:hover {
+background-color: #333333;
 
 }
+
 .titulo{
   margin: 0 auto;
   text-align: center;
