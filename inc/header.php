@@ -1,12 +1,13 @@
-<header>
-    <a href="">Logo</a>
-    <nav>
-        <ul>
-            <li><a href="pagina1.php">Opcion01</a></li>
-            <li><a href="pagina2.php">Opcion02</a></li>
-            <li><a href="pagina3.php">Opcion03</a></li>
-            <li><a href="pagina4.php">Opcion04</a></li>
-            <li><a href="pagina5.php">Opcion05</a></li>
-        </ul>
-    </nav>
-</header>
+<nav class="button">
+    
+        <ul class="apache">
+            <li><a href="index.php">Apache Friends</a></li>
+        </ul>  
+    <ul class="apache2">
+        <li><a href="aplications.php">Aplications</a></li>
+        <li><a href="faqs.php">FAQs</a></li>
+        <li><a href="how.php">HOW-TO Guides</a></li>
+        <li><a href="info.php">PHPInfo</a></li>
+        <li><a href="admin.php">phpMyAdmin</a></li>
+    </ul>
+</nav>
