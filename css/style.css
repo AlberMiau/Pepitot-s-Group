@@ -68,8 +68,23 @@ h3 > a{
 .primerofaq{
   width: 100%;
   height: auto;
-  background-color: linen;
+  background-color: #efeee5;
   font-size: 3em;
+  margin-bottom: 1.5%;
+}
+.primerofaq h1{
+  padding: 2% 0;
+}
+.segundofaq h3{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+.segundofaq h5{
+  font-size: 1em;
+  font-weight: bold;
+}
+.segundofaq p{
+  font-size: 1em;
 }
 
 /*****PAGINA 3*******/

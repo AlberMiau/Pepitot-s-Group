@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>XAMPPP howto guides</title>
-	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/skeleton.css">
-	<link rel="stylesheet" href="css/style.css">
+	<?php include'inc/head.php' ?>
 </head>
 <body>
+	<?php include'inc/header.php' ?>
 
    <div id="cuerpo_pagina3">
       	<div class="container_page3">
@@ -48,6 +45,6 @@
 
     </div>
 
-
+<?php include'inc/footer.php' ?>
 </body>
 </html>
