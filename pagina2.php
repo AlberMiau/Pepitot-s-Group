@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="normalize.css">
 </head>
 <body>
-<?php include'includes/cabecera.php' ?>
+<?php include'inc/cabecera.php' ?>
 
 <div class="primerofaq">
 	<div class="container">
@@ -122,6 +122,6 @@
 </div>
 
 
-<?php include 'includes/pie.php' ?>
+<?php include 'inc/pie.php' ?>
 </body>
 </html>
