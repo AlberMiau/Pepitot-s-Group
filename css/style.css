@@ -140,7 +140,7 @@ h3 > a{
     display: inline;
 }
 
-.row, #stack-list, #theme-list li, ul#docs-list {
+#stack-list, #theme-list li, ul#docs-list {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
