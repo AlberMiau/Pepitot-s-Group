@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Estilo Index----------------*/
 #cuerpo_index {
   background: #fff;
@@ -37,3 +38,30 @@ h3 > a{
 	text-decoration: none;
 	color: green;
 }
+=======
+
+/* HEADER */
+.button li a:hover {
+background-color: #2586d7;
+margin-top:-2px;
+padding-bottom:12px;
+}
+
+.button li a {
+font-family: Arial;
+font-size:11px;
+text-decoration: none;
+float:left;
+padding: 10px;
+background-color: #2175bc;
+color: #fff;
+}
+
+.button li {
+display: inline;
+}
+
+.button {
+padding: 0;
+}
+>>>>>>> f9c9593ed4a9b9598e91cd2c586b6796aafe8fe7

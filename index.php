@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<<<<<<< HEAD
 	
 	
       <div class="logo_cuerpo">
@@ -84,5 +85,8 @@
 
     </div>
 
+=======
+	<?php include('header.php') ?>
+>>>>>>> f9c9593ed4a9b9598e91cd2c586b6796aafe8fe7
 </body>
 </html>
