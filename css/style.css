@@ -171,14 +171,12 @@ background-color: #333333;
 
 }
 /*******************pie**************************/
-
-
 footer {
   text-decoration: none;
    color:  #888;
    background: #555555;
    padding: 1em 0;
-   height: 50px;
+   height: auto;
 }
 
 
@@ -186,30 +184,63 @@ footer {
   color: white;
 }
 
-.parte1,.parte2{
+.social{
   float: left;
+  margin-right: 1%;
 
 }
-.parte1  ul li, .parte2  ul li {
+.social ul li{
   color:  #888; 
-  text-align: center;
+  /*margin-right:10px;*/
+  color: #7a7a7a;
+  list-style: none;
+  display:inline-block;
+  box-sizing: border-box;
+}
+.lista{
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+}
+.lista ul li{
+  color:  #888; 
   margin-right:10px;
   color: #7a7a7a;
   list-style: none;
   display:inline-block;
-
+  box-sizing: border-box;
 }
- 
-.parte1 ul li a, .parte2 ul li a{
+.lista ul li a{
   text-decoration: none;
-  color:  #888
-
+  color:  #888;
+}
+.lista ul li a img{
+  position: absolute;
+  top: 3px;
+  left: 273px;
 }
 
+.social li div{
+  text-decoration: none;
+  color:  #888;
+  width: 25px;
+  height: 25px;
+  text-indent: -9999px;
+  background-image: url(../img/social-icons.png);
+  background-repeat: no-repeat;
+  background-position: 0 0;
 
-.parte3 p{
+}
+.social div.twit {
+    background-position: 0 0;
+}
+.social div.faceb{
+    background-position: -25px 0;
+}
+.social div.googl{
+    background-position: -50px 0;
+}
+
+.parte3{
   float: right;
-  margin-right: 30px;
-   
-
-}
+ }
