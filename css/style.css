@@ -1,19 +1,10 @@
 /* HEADER */
+.button {
+width: 100%;
+padding: 0;
+background-color: #2a5d84;
+height: 60px;
 
-.button li a:hover {
-background-color: #333333;
-margin-top:-2px;
-padding-bottom:20px;
-}
-
-.button li a {
-font-family: Arial;
-font-size:14px;
-text-decoration: none;
-float:left;
-padding: 10px;
-
-color: #fff;
 }
 
 .button li {
@@ -21,14 +12,20 @@ display: inline;
 
 }
 
-.button {
-padding: 0;
-padding-top: 10px;
-border: 1px solid black;
-background-color: #2a5d84;
-height: 60px;
+.button li a {
+
+font-size:12px;
+text-decoration: none;
+float:left;
+padding: 10px;
+color: #fff;
+}
+
+.button li a:hover {
+background-color: #333333;
 
 }
+
 .titulo{
   margin: 0 auto;
   text-align: center;
@@ -49,7 +46,7 @@ height: 60px;
 }
 
 /*Estilo Index----------------*/
-#cuerpo_index {
+#cuerpo_index { 
   background: #fff;
   padding-bottom: 2em;
   width: 960px;
@@ -79,13 +76,19 @@ height: 60px;
 	height: 1em;
     margin-right: 0.3em;
      }
-p > a{
+.enlace_index a{
 	text-decoration: none;
 	color: green;
 }
-h3 > a{
-	text-decoration: none;
-	color: green;
+/*-----Pagina01-----*/
+.coloretear{
+  background-color: #efeee5;
+}
+.mismolol{
+  background-color: #fffacd;
+  border:1px solid #ff6347;
+  margin-bottom: 2%;
+  padding: 0.7%;
 }
 
 /*-----Pagina02-----*/
@@ -139,7 +142,7 @@ h3 > a{
     display: inline;
 }
 
-.row, #stack-list, #theme-list li, ul#docs-list {
+#stack-list, #theme-list li, ul#docs-list {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -179,7 +182,7 @@ footer {
 }
 
 
-strong{
+.blanco{
   color: white;
 }
 
