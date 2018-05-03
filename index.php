@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-	<meta charset="UTF-8">
-	<title>Index</title>
-	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/skeleton.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/style.css">
+	<?php include'inc/head.php' ?>
 </head>
 <body>
 
