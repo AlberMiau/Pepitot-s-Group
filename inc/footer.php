@@ -12,7 +12,7 @@
 			<ul>
 				<li><a href="#">Blog</a></li>
 				<li><a href="#">Privacy Policy</a></li>
-				<li><a href="#">CDN Provided by <span class="blanco">fastly</span></a></li>
+				<li><a href="#">CDN Provided by <strong>fastly</strong></a></li>
 				
 			</ul>
 		</div>

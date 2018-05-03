@@ -8,8 +8,8 @@
 
    <div id="cuerpo_pagina3">
       	<div class="container_page3">
-		  <div class="container">
-		    <div class="twuelve columns">
+		  <div class="row">
+		    <div class="large-12 columns">
 		      <h1>Windows 
 		      	<span>HOW-TO Guides</span>
 		      </h1>
@@ -17,8 +17,8 @@
 		  </div>
 		</div>
 
-		<div class="container">
-		  <div class="twuelve columns listado">
+		<div class="row">
+		  <div class="large-12 columns listado">
 					<h5><a href="#">Backup and Restore MySQL/MariaDB Databases</a></h5>
 					<h5><a href="#">Configure FTP Access</a></h5>
 					<h5><a href="#">Configure Virtual Hosts</a></h5>
