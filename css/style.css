@@ -1,5 +1,4 @@
 /* HEADER */
-<<<<<<< HEAD
 nav{
   width: 100%;
   padding: 1rem;
@@ -25,39 +24,6 @@ nav{
 .menu ul li{
   display: inline;
   padding-left: 1rem;
-=======
-.button {
-width: 100%;
-padding: 0;
-background-color: #2a5d84;
-height: 60px;
-
-}
-
-.button li {
-display: inline;
-
-}
-
-.button li a {
-
-font-size:12px;
-text-decoration: none;
-float:left;
-padding: 10px;
-color: #fff;
-}
-
-.button li a:hover {
-background-color: #333333;
-
-}
-
-.titulo{
-  margin: 0 auto;
-  text-align: center;
-  float: right;
->>>>>>> ac8259f57ae5258daf943dcf1777750168ce97e7
 }
 
 .menu ul li a {
@@ -74,7 +40,7 @@ background-color: #333333;
 
 
 /*Estilo Index----------------*/
-#cuerpo_index { 
+#cuerpo_index {
   background: #fff;
   padding-bottom: 2em;
   width: 960px;
@@ -104,19 +70,13 @@ background-color: #333333;
 	height: 1em;
     margin-right: 0.3em;
      }
-.enlace_index a{
+p > a{
 	text-decoration: none;
 	color: green;
 }
-/*-----Pagina01-----*/
-.coloretear{
-  background-color: #efeee5;
-}
-.mismolol{
-  background-color: #fffacd;
-  border:1px solid #ff6347;
-  margin-bottom: 2%;
-  padding: 0.7%;
+h3 > a{
+	text-decoration: none;
+	color: green;
 }
 
 /*-----Pagina02-----*/
@@ -170,7 +130,7 @@ background-color: #333333;
     display: inline;
 }
 
-#stack-list, #theme-list li, ul#docs-list {
+.row, #stack-list, #theme-list li, ul#docs-list {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -199,76 +159,45 @@ background-color: #333333;
 
 }
 /*******************pie**************************/
+
+
 footer {
   text-decoration: none;
    color:  #888;
    background: #555555;
    padding: 1em 0;
-   height: auto;
+   height: 50px;
 }
 
 
-.blanco{
+strong{
   color: white;
 }
 
-.social{
+.parte1,.parte2{
   float: left;
-  margin-right: 1%;
 
 }
-.social ul li{
+.parte1  ul li, .parte2  ul li {
   color:  #888; 
-  /*margin-right:10px;*/
-  color: #7a7a7a;
-  list-style: none;
-  display:inline-block;
-  box-sizing: border-box;
-}
-.lista{
-  display: inline-block;
-  text-decoration: none;
-  position: relative;
-}
-.lista ul li{
-  color:  #888; 
+  text-align: center;
   margin-right:10px;
   color: #7a7a7a;
   list-style: none;
   display:inline-block;
-  box-sizing: border-box;
+
 }
-.lista ul li a{
+ 
+.parte1 ul li a, .parte2 ul li a{
   text-decoration: none;
-  color:  #888;
-}
-.lista ul li a img{
-  position: absolute;
-  top: 3px;
-  left: 273px;
-}
-
-.social li div{
-  text-decoration: none;
-  color:  #888;
-  width: 25px;
-  height: 25px;
-  text-indent: -9999px;
-  background-image: url(../img/social-icons.png);
-  background-repeat: no-repeat;
-  background-position: 0 0;
+  color:  #888
 
 }
-.social div.twit {
-    background-position: 0 0;
-}
-.social div.faceb{
-    background-position: -25px 0;
-}
-.social div.googl{
-    background-position: -50px 0;
-}
 
-.parte3{
+
+.parte3 p{
   float: right;
- }
+  margin-right: 30px;
+   
+
+}
