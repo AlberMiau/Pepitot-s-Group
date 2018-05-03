@@ -10,10 +10,13 @@
       <div class="logo_cuerpo">
  		<div class="row">
     		<div class="twelve columns">
+         
       			<h1><img src="img/xampp-logo.svg">XAMPP <span>Apache + MariaDB + PHP + Perl</span></h1>
+         
     		</div>
   		</div>
 	</div>
+
 <div id="cuerpo_index">
 <div class="row">
   <div class="twelve columns">

@@ -1,16 +1,25 @@
 /* HEADER */
 nav{
   width: 100%;
-  padding: 1rem;
+  height: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #2a5d84;
-  font-size: 0.8125rem;
-  font-weight: normal;
+ 
 }
 
 .logo{
   
     float: left;
-    font-size: 20px;
+    font-size: 18px;
+    padding-top: 5px;
+
+}
+.logo a{
+  
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
 }
 
 .menu{    
@@ -23,18 +32,24 @@ nav{
 }
 .menu ul li{
   display: inline;
-  padding-left: 1rem;
+  padding-left: 26px;
 }
 
 .menu ul li a {
 
-font-size:12px;
+font-size:13px;
 text-decoration: none;
 color: #fff;
+
 }
 
 .menu ul li a:hover {
 background-color: #333333;
+padding-top: 20px;
+padding-bottom: 20px;
+
+
+
 
 }
 
@@ -46,37 +61,64 @@ background-color: #333333;
   margin: 0 auto;
 }	
 
+#cuerpo_index h2{ 
+ font-size: 40px;
+} 
+
 .logo_cuerpo {
+  height: 180px;
   background: #efeee5;
-  padding: 1em 0;
+  padding-top:10px;
   margin-bottom: 2em;
+
+  
   }
+
 
 .logo_cuerpo h1 {
     font-weight: bold;
-    font-size: 3em;
-    line-height: 1em;
-    padding: 0.3em 0;
-    text-align: center; 
+    font-size: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+  
+
 }
 
 .logo_cuerpo h1 span {
     font-weight: normal;
     font-size: 1em;
-    display: inline-block; }
+    display: inline-block;
+  
+}
    
 .logo_cuerpo h1 img {
-	height: 1em;
+	  height: 1em;
     margin-right: 0.3em;
-     }
+   
+}
+
 .enlace_index a{
 	text-decoration: none;
 	color: green;
 }
+
+
 /*-----Pagina01-----*/
 .coloretear{
   background-color: #efeee5;
+  padding-top: 20px;
 }
+.coloretear p{
+  font-size: 16px;
+  
+}
+
+.coloretear a{
+  text-decoration: none;
+  color: #5e8949;
+}
+
 .mismolol{
   background-color: #fffacd;
   border:1px solid #ff6347;
@@ -125,7 +167,7 @@ background-color: #333333;
 
 .container_page3 h1 {
     font-weight: bold;
-    font-size: 3em;
+    font-size: 5  0px;
     line-height: 1em;
     padding: 0.3em 0;
 }
@@ -133,6 +175,7 @@ background-color: #333333;
 .container_page3 h1 span {
     font-size: inherit;
     display: inline;
+    font-weight: normal;
 }
 
 #stack-list, #theme-list li, ul#docs-list {
@@ -149,7 +192,8 @@ background-color: #333333;
 }
 
 .listado h5{
-    line-height: 1.2;
+    line-height: 0.8;
+    font-size: 18px;
 }
 
 .listado a{
@@ -164,6 +208,7 @@ background-color: #333333;
 
 }
 /*******************pie**************************/
+
 footer {
   text-decoration: none;
    color:  #888;

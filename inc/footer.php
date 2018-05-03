@@ -18,8 +18,9 @@
 			</div>
 			
 			<div class="parte3">
-				<p>Copyright (c) 2017, Apache Friends</p>
+				<p>Copyright (c) 2018, Apache Friends</p>
 			</div>
 		</div>
 	</div>
 </footer>
+

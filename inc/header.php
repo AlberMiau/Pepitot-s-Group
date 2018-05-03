@@ -5,7 +5,7 @@
         </div>  
      <div class="menu">
             <ul>
-             <li><a href="pagina1.php">Aplications</a></li>
+             <li><a href="pagina1.php">Applications</a></li>
              <li><a href="pagina2.php">FAQs</a></li>
              <li><a href="pagina3.php">HOW-TO Guides</a></li>
              <li><a href="pagina4.php">PHPInfo</a></li>
